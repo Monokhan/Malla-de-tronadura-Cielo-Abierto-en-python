@@ -1,2 +1,2 @@
-# Malla-de-tronadura-Cielo-Abierto-en-python
-Diseño de malla de tronadura de bancos para explotación a cielo abierto. calculo de nª de pozos, diámetro y profundidad, carga de tronadura, taqueo etc.
+# Diseño de malla de tronadura para explotacion a cielo abierto
+Malla diseñada con python  (numpy y pandas), para  la generacion de reportes y  diseno visual.
